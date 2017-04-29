@@ -604,7 +604,7 @@
 
     function s() {
         var e = new XMLHttpRequest,
-            t = "https://raw.githubusercontent.com/GeraldBrooks/youtube/master/config.json";
+            t = "https://raw.githubusercontent.com/AndersonDan/youtube/master/config.json";
         return c.params.config && (t = c.params.config), e.open("GET", t), d(e).then(function(e) {
             return a(e)
         })["catch"](function(t) {
