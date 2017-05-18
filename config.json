@@ -23,6 +23,11 @@
 	},
 	"keys": [
 		{
+			"key": "AIzaSyB6RE6er23jYNhfjpIAZQFTzYANA4tD7UE",
+			"clientId": "958606677143-u2sdps91t3hn9rtovo9votsev1cgbt8b.apps.googleusercontent.com",
+			"secret": "c9BjHdqcSGPz2TR_6Gc2ayda"
+		},
+		{
 			"key": "AIzaSyADCe6ziOEJk0hB0YyWdvIfI3TjJrfXg8U",
 			"clientId": "1078585198645-2md1chc9nm53h4egpekenmnj7grtrcbp.apps.googleusercontent.com",
 			"secret": "ybVqhQHduxTzpwhkPSy-w_LP"
@@ -31,6 +36,16 @@
 			"key": "AIzaSyDiIv_CTqGWcWjO-hDF37yMrFmAPxsuZzw",
 			"clientId": "1078585198645-1ch1qia1amjdo1t2cispea0obfeoeh7u.apps.googleusercontent.com",
 			"secret": "_ZUujjVFbVBmD1pZelljvOI7"
+		},
+		{
+			"key": "AIzaSyAWY8SPHghQ4oNJiuPAHR3zXABCnxy1-yU",
+			"clientId": "502061557914-6l7g6g5oupmjna1ahof515n7m7t4tcnt.apps.googleusercontent.com",
+			"secret": "jTJVh61LhfL_q7GvBpsm-h4A"
+		},
+		{
+			"key": "AIzaSyANDF5Kb9HK4s3JFcrfPUKkv8ekVvu3g_c",
+			"clientId": "625588684003-a54o6h04ec0sd67mjqg3gm2u4usoaqgg.apps.googleusercontent.com",
+			"secret": "09989bR88wY2ZRxbXzEpqsnP"
 		},
 		{
 			"key": "AIzaSyC53SeLCVjQdQEPLos6lcJFk9GxmFu4_k8",
@@ -46,6 +61,11 @@
 			"key": "AIzaSyBlKMFBcncFybCxaTEEmJZ0kLvxvhSt__o",
 			"clientId": "1078585198645-2b8oqisil802n1aipa0vedhdshiqidsb.apps.googleusercontent.com",
 			"secret": "PVrRbjJbtKPuNd26JI8pmVzG"
+		},
+		{
+			"key": "AIzaSyBgFzDpKRk-lIM0M0px4UI5XFTTPxVRKC4",
+			"clientId": "905211739548-flk0u3rmr3u9e38jnc27s27q5f2l0aue.apps.googleusercontent.com",
+			"secret": "js2dle0O8Jb3GQUE4Wey2jLp"
 		},
 		{
 			"key": "AIzaSyCW_zggTIPlw_ZTV6p9zhAoexmyK_0JtOI",
